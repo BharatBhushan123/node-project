@@ -1,0 +1,15 @@
+*{
+    background-color: rgb(180, 182, 185);
+}
+h1{border: 2px solid;
+    background-color: rgb(216, 212, 206);
+    text-align: center;
+    text-shadow: 5px pink;
+    color: blue;
+}
+#editor{
+
+    align-items: center;
+    border: 5px solid;
+    border-radius: 5px;
+}
